@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scriptoresgraeci01gileuoft_0015.png"; bbox 0 0 1716 3002; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 410 825 1052 1851">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 410 825 1052 1851">
+     <span class='ocr_line' id='line_1_1' title="bbox 596 825 769 877; baseline 0 -11"><span class='ocrx_word' id='word_1_1' title='bbox 596 825 769 877; x_wconf 74' lang='grc' dir='ltr'><strong><em>Λείψανα</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 665 901 716 940; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 665 901 716 940; x_wconf 79' lang='grc' dir='ltr'><strong><em>τὰ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 410 976 993 1028; baseline -0.002 -12"><span class='ocrx_word' id='word_1_3' title='bbox 410 977 483 1017; x_wconf 73' lang='grc' dir='ltr'><strong><em>τᾶς</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 509 976 719 1019; x_wconf 76' lang='grc' dir='ltr'>ἈΝΊΤΑΣ</span> <span class='ocrx_word' id='word_1_5' title='bbox 743 976 993 1028; x_wconf 78' lang='grc' dir='ltr'><strong><em>Ἐπιδαυρίας,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 509 1050 957 1099; baseline 0 -8"><span class='ocrx_word' id='word_1_6' title='bbox 509 1050 726 1093; x_wconf 76' lang='grc' dir='ltr'>ἭΔΤΛΗΣ</span> <span class='ocrx_word' id='word_1_7' title='bbox 743 1051 957 1099; x_wconf 74' lang='grc' dir='ltr'><strong><em>Ἀθηναίας,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 509 1124 959 1173; baseline 0.002 -8"><span class='ocrx_word' id='word_1_8' title='bbox 509 1126 747 1168; x_wconf 78' lang='grc' dir='ltr'>ἨΡΙΝΝΑΣ</span> <span class='ocrx_word' id='word_1_9' title='bbox 773 1124 959 1173; x_wconf 83' lang='grc' dir='ltr'><strong><em>Λεσβίας,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 510 1203 806 1246; baseline 0.007 -7"><span class='ocrx_word' id='word_1_10' title='bbox 510 1203 806 1246; x_wconf 74' lang='grc' dir='ltr'><strong>ΘΕΟΣΕΒῙΑΣ,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 514 1273 1052 1326; baseline 0.002 -12"><span class='ocrx_word' id='word_1_11' title='bbox 514 1278 774 1316; x_wconf 78' lang='grc' dir='ltr'><strong>ΚΟΡῙΝΝΑΣ</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 801 1273 1052 1326; x_wconf 73' lang='grc' dir='ltr'><strong><em>Ταναγραίας,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 513 1350 1019 1396; baseline 0 -7"><span class='ocrx_word' id='word_1_13' title='bbox 513 1353 810 1391; x_wconf 71' lang='grc' dir='ltr'><strong>ΜΕΛΙΝΝΟΎΣ</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 836 1350 1019 1396; x_wconf 85' lang='grc' dir='ltr'><strong><em>Λεσβίας,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 514 1421 964 1474; baseline 0.002 -11"><span class='ocrx_word' id='word_1_15' title='bbox 514 1427 715 1465; x_wconf 74' lang='grc' dir='ltr'><strong>ΜῪΡΟΥΣ</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 742 1421 964 1474; x_wconf 75' lang='grc' dir='ltr'><strong><em>Βυζαντίας,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 513 1497 1031 1551; baseline 0.004 -13"><span class='ocrx_word' id='word_1_17' title='bbox 513 1502 774 1541; x_wconf 79' lang='grc' dir='ltr'><strong>ΝΟΣΣῙΔΟΣ</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 800 1497 1031 1551; x_wconf 84' lang='grc' dir='ltr'><strong><em>Λοκρίσσας,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 514 1573 1044 1622; baseline 0.006 -9"><span class='ocrx_word' id='word_1_19' title='bbox 514 1577 797 1616; x_wconf 77' lang='grc' dir='ltr'><strong>ΠΡΑΞῙΛΛΑΣ</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 825 1573 1044 1622; x_wconf 75' lang='grc' dir='ltr'><strong><em>Σικυωνίας,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 515 1647 958 1698; baseline 0.002 -8"><span class='ocrx_word' id='word_1_21' title='bbox 515 1651 749 1691; x_wconf 60' lang='lat' dir='ltr'><strong><em>moon</em></strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 775 1647 958 1698; x_wconf 85' lang='grc' dir='ltr'><strong><em>Λεσβίας,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 689 1723 753 1764; baseline 0 0"><span class='ocrx_word' id='word_1_23' title='bbox 689 1723 753 1764; x_wconf 74' lang='grc' dir='ltr'><strong><em>καὶ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 515 1797 1041 1851; baseline 0.004 -14"><span class='ocrx_word' id='word_1_24' title='bbox 515 1801 825 1841; x_wconf 55' lang='lat' dir='ltr'><strong><em>mmmm</em></strong></span> <span class='ocrx_word' id='word_1_25' title='bbox 852 1797 1041 1851; x_wconf 73' lang='grc' dir='ltr'><strong><em>Ἀργείας.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
